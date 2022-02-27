@@ -1,4 +1,4 @@
-# Case studies
+# Projects
 
 ## Automatic Fingerprint Identification System (AFIS) Simulation
 An innovative upstart offering Forensic Training and hand on crime scene experiences under the direction of an experienced Fingerprinting and Forensic Expert.
@@ -22,5 +22,20 @@ CodeSandBox examples:
 - [Training a CNN to read MNIST handwritten digits (tutorial)](https://bzsi3.csb.app/)
 - [Reading multi-digit hand written numbers](https://vb1bn.csb.app/)
 
+## Dockerised development environment
+Setting up a development team to run standardised developments and production environments, building software releases as Docker Images for better version control.
+
+Developing on a shared server with multiple dev environements, pushing to release-branched git repository and deploying Docker Images to staging.
+
+## Dockerised Home Theatre PC
+The result of a plan to digitise my DVD collection to be able to watch movies and episodes without having to wait through the warnings and DVD menus.
+
+It is an ecosystem using Docker and Docker Compose, containing:
+Nginx - Reverse Proxy
+Emby - Media Server
+Sonarr - TV Shows
+Radarr - Movies
+Jackett - Tracker interface
+Transmission - Torrent client
 
 [resume](cv.md)
